@@ -1,0 +1,5 @@
+{
+    "dart.closingLabels": false,
+    "dart.lineLength" : 120,
+    "explorer.compactFolders": false,
+}
